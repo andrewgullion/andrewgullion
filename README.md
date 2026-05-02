@@ -1,6 +1,13 @@
 # Andrew Gullion
 
 ## Cybersecurity • Network Communications • Defensive Security Projects
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)
+![Clearance](https://img.shields.io/badge/Clearance-Active%20Secret-blue)
+![Linux](https://img.shields.io/badge/Linux-Hands--On-black)
+![Networking](https://img.shields.io/badge/Networking-Routing%20%26%20Switching-green)
+![Python](https://img.shields.io/badge/Python-Security%20Automation-yellow)
+![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-lightblue)
+![Nmap](https://img.shields.io/badge/Nmap-Service%20Enumeration-purple)
 
 CompTIA Security+ certified professional with an Active Secret Clearance and hands-on technical experience in networking, Linux administration, vulnerability scanning, packet analysis, and cybersecurity lab development.
 
